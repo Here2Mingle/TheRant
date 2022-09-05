@@ -1,0 +1,114 @@
+/* Global CSS */
+
+body {
+  background-color: hsl(0, 0%, 97%);
+}
+
+.btn-primary {
+  background-color: rgba(35, 67, 212, 0.911) !important;
+}
+
+main {
+    margin-top: 5% !important;
+    position: relative !important;
+    padding: 25px;
+    margin-bottom: 10px;
+}
+
+#main-navbar {
+  z-index: 9999 !important;
+}
+
+.navbar-brand img {
+  width: 50px;
+}
+
+
+.bubblesPanel {
+  position: relative;
+  padding-top: 100px;
+  padding-left: 39px;
+  padding-right: 39px;
+}
+
+.bubblesPanel .rounded-bubbles {
+  border-radius: 25%;
+}
+
+.bubblesPanel .col-md-3 {
+  width: 140px;
+}
+
+.bubblesPanel button {
+  top: 13px;
+  position: relative;
+}
+
+.sidenav-menu {
+  top: 80px !important;
+  position: relative !important;
+}
+
+#navbarCenteredExample .input-group-text {
+  background-color: #FF4066;
+  color: white;
+  left: -30px;
+  position: relative;
+}
+
+@media (min-width: 1400px) {
+
+  #main-navbar {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+}
+
+.text-light {
+  color: #9FA6B2 !important;
+}
+
+/* Header CSS */
+
+nav .fa-bell, nav .fa-user-circle {
+    font-size: 20px;
+}
+
+.navbar-brand {
+    padding-left: 20px;
+}
+
+/* Footer CSS */
+
+footer {
+  background-color: rgba(35, 67, 212, 0.911);
+  color: white !important;
+}
+
+footer img {
+  width: 100px;
+}
+
+footer a {
+  color: white;
+}
+
+footer a:hover {
+  color: lightblue;
+}
+
+/* Pages CSS */
+.channelHeader {
+  width: 100%;
+  text-align: center;
+}
+
+#liveChannel, #gamePlay {
+  width: 100%;
+  height: 50%;
+}
+
+.editor {
+  bottom: 10px;
+  position: relative;
+}
