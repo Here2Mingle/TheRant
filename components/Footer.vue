@@ -5,24 +5,21 @@
         <section class="">
           <div class="row">
             <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-              <img src="../static/logo.png" alt="Here2Mingle"><br>
-              <a href="/">HERE2MINGLE</a>
+              <img src="../static/logo.png" alt="The Rant"><br>
+              <a href="/">The Rant</a>
             </div>
             <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-              <h5 class="text-uppercase">About Here2Mingle</h5>
+              <h5 class="text-uppercase">About The Rant</h5>
 
               <ul class="list-unstyled mb-0">
                 <li>
-                  <a href="/about">About Here2Mingle</a>
+                  <a href="/about">About The Rant</a>
                 </li>
                 <li>
-                  <a href="/blog">Our Blog</a>
+                  <a href="https://help.meeovi.com/sites/therant">Help Center</a>
                 </li>
                 <li>
-                  <a href="https://help.meeovi.com/sites/here2mingle">Help Center</a>
-                </li>
-                <li>
-                  <a href="/tips">Dating Tips and Guides</a>
+                  <a href="/blog/tips">Mental and Stress Tips</a>
                 </li>
               </ul>
             </div>
@@ -32,10 +29,10 @@
 
               <ul class="list-unstyled mb-0">
                 <li>
-                  <a href="#!">Terms and Conditions</a>
+                  <a href="/legal/terms">Terms and Conditions</a>
                 </li>
                 <li>
-                  <a href="#!">Privacy Policies</a>
+                  <a href="/legal/policies">Privacy Policies</a>
                 </li>
               </ul>
             </div>

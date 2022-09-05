@@ -5,7 +5,7 @@ body {
 }
 
 .btn-primary {
-  background-color: rgba(35, 67, 212, 0.911) !important;
+  background-color: #a8741a !important;
 }
 
 main {
@@ -81,7 +81,7 @@ nav .fa-bell, nav .fa-user-circle {
 /* Footer CSS */
 
 footer {
-  background-color: rgba(35, 67, 212, 0.911);
+  background-color: #a8741a;
   color: white !important;
 }
 

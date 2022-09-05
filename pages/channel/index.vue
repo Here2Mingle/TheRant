@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h3 class="channelHeader">Mingle Channels</h3>
+    <h3 class="channelHeader">Debate Channels</h3>
     <ul class="nav nav-pills nav-justified mb-3" id="ex1" role="tablist">
       <li class="nav-item" role="presentation">
         <a class="nav-link active" id="ex3-tab-1" data-mdb-toggle="pill" href="#ex3-pills-1" role="tab"
@@ -35,7 +35,7 @@
       privateChannel
     },
     head: {
-      title: 'Mingle Channels'
+      title: 'Debate Channels'
     }
   }
 

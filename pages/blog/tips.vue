@@ -1,35 +1,66 @@
 <template>
     <div>
-<section class="mb-8">
-  
-  <div class="custom-height" style="background-color: #efeff2;">
-    <div class="container py-5">
-      <div class="row my-4">
-        <div class="col-12">
-          <p class="display-4 fw-bold ls-tight" style="color: #e45300;">Record Tips</p>
-          <h4 class="mb-0" style="color: #998b89;">Articles from our team</h4>
+<!-- Container for demo purpose -->
+<div class="container my-5">
+
+<!--Section: Design Block-->
+<section class="mb-10">
+
+  <div class="d-flex justify-content-between align-items-center align-items-xl-end border-bottom pb-4 mb-5"
+    style="border-bottom: 2px solid #f5f5f5 !important;">
+    <h2 class="fw-bold mb-0">Mental and Stress Tips</h2>
+    <h6 class="mb-0"><a href="https://www.thementalhealthawareness.com" target="_blank">Mental Health Awareness <i class="fas fa-angle-right fa-xs ms-1"></i></a></h6>
+  </div>
+  <div class="row gx-md-5">
+    <div class="col-md-12 col-lg-4">
+      <div class="mb-5">
+        <div class="bg-image hover-overlay hover-zoom ripple rounded-5 mb-4" data-mdb-ripple-color="light">
+          <img class="w-100" src="https://mdbootstrap.com/img/new/blog/7.jpeg"
+            style="height: 225px; object-fit: cover;" alt="Image placeholder">
+          <a href="#!">
+            <div class="mask" style="background-color: rgba(255,255,255,0.1);"></div>
+          </a>
         </div>
+        <h6 class="text-muted text-uppercase small pb-1"><a href="#!" class="text-reset">Quiz</a></h6>
+        <h5 class="fw-bold mb-3"><a href="#!" class="text-reset">Computers for decades - will you recognize them
+            all? QUIZ</a></h5>
+      </div>
+    </div>
+    <div class="col-md-6 col-lg-4">
+      <div class="mb-5">
+        <div class="bg-image hover-overlay hover-zoom ripple rounded-5 mb-4" data-mdb-ripple-color="light">
+          <img class="w-100" src="https://mdbootstrap.com/img/new/blog/8.jpeg"
+            style="height: 225px; object-fit: cover; object-position: top;" alt="Image placeholder">
+          <a href="#!">
+            <div class="mask" style="background-color: rgba(255,255,255,0.1);"></div>
+          </a>
+        </div>
+        <h6 class="text-muted text-uppercase small pb-1"><a href="#!" class="text-reset">Poster</a></h6>
+        <h5 class="fw-bold mb-3"><a href="#!" class="text-reset">How an attempt was made to interest the society
+            in science - a poster in the 20th century</a></h5>
+      </div>
+    </div>
+    <div class="col-md-6 col-lg-4">
+      <div class="mb-5">
+        <div class="bg-image hover-overlay hover-zoom ripple rounded-5 mb-4" data-mdb-ripple-color="light">
+          <img class="w-100" src="https://mdbootstrap.com/img/new/blog/9.jpeg"
+            style="height: 225px; object-fit: cover;" alt="Image placeholder">
+          <a href="#!">
+            <div class="mask" style="background-color: rgba(255,255,255,0.1);"></div>
+          </a>
+        </div>
+        <h6 class="text-muted text-uppercase small pb-1"><a href="#!" class="text-reset">Productivity</a></h6>
+        <h5 class="fw-bold mb-3"><a href="#!" class="text-reset">5 habits to introduce immediately to increase
+            concentration in creative work</a></h5>
       </div>
     </div>
   </div>
-  <div class="container custom-mt">
-    <div class="row g-0 align-items-center">
-      <div class="col-lg-7 mb-4 mb-lg-0">
-        <img src="https://mdbootstrap.com/img/new/blog/42.jpg" class="w-100 rounded-6" alt="Italian city" />
-      </div>
-      <div class="col-lg-5">
-        <div class="card cascading-left rounded-6 shadow-5">
-          <div class="card-body px-4 p-4 p-md-5 p-lg-4 p-xl-5">
-            <h3 class="mb-4">What places to visit during your first trip to Italy? 5 suggestions for backpackers.</h3>
-            <p class="text-muted mb-4">Amet consectetur adipisicing elit quam, natus eum repellendus harum dolore dolorum impedit quas blanditiis amet temporibus assumenda iusto. <span class="d-none d-xl-inline">Fugiat voluptatum provident porro tempore corporis minus vero sint occaecat cupidatat.</span></p>
-            <button class="btn btn-warning">Read more <i class="fas fa-angle-right ms-1"></i></button>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+
 </section>
 <!--Section: Design Block-->
+
+</div>
+<!-- Container for demo purpose -->
     </div>
 </template>
 

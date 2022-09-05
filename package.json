@@ -1,6 +1,6 @@
 {
-  "name": "amazon-project-template",
-  "description": "This is a starter template to be used within Amazon",
+  "name": "therant-project-template",
+  "description": "This is a starter template to be used with The Rant",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -21,6 +21,7 @@
     "mdb-ui-kit": "^4.2.0",
     "nuxt": "^2.15.8",
     "sass": "^1.54.8",
+    "video.js": "^7.20.2",
     "webpack": "^4.46.0"
   },
   "devDependencies": {
